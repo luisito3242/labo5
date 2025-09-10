@@ -4,18 +4,14 @@
   </a>
 </p>
 
-# 📝 Universidad X  
+# 📝 Universidad Adventista de Bolivia
 **Materia:** Taller de Programación  
-**Estudiante:** Tu Nombre Completo  
+**Estudiante:** Luis Alberto Chura Zegarra 
 **Proyecto:** Laboratorio 5 – Operaciones CRUD con JSON y APIs  
-
----
 
 ## 📋 Descripción  
 Proyecto Laravel que implementa un CRUD de tareas con JSON y APIs REST.  
 Cada tarea contiene `id`, `title` y `completed`. Persistencia en archivo JSON.
-
----
 
 ## 🚀 Tecnologías  
 - PHP 8+  
@@ -23,8 +19,6 @@ Cada tarea contiene `id`, `title` y `completed`. Persistencia en archivo JSON.
 - Composer  
 - Visual Studio Code  
 - Git / GitHub  
-
----
 
 ## ⚙️ Instalación  
 ```bash
