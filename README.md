@@ -7,14 +7,15 @@
 # 📝 Universidad Adventista de Bolivia
 **Materia:** Taller de Programación  
 **Estudiante:** Luis Alberto Chura Zegarra 
-**Proyecto:** Laboratorio 5 – Operaciones CRUD con JSON y APIs  
+**Proyecto:** Laboratorio 5 – Operaciones CRUD   
 
 ## 📋 Descripción  
 Proyecto Laravel que implementa un CRUD de tareas con JSON y APIs REST.  
 Cada tarea contiene `id`, `title` y `completed`. Persistencia en archivo JSON.
 
 ## 🚀 Tecnologías  
-- PHP 8+  
+- tecno
+t
 - Laravel 10+  -{{}}
 - Composer  
 - Visual Studio Code  
